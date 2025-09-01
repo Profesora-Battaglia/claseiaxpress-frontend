@@ -1,0 +1,5 @@
+{
+  "name": "ClaseIaXpress - Asistente Pedagógico",
+  "description": "Una aplicación de asistente pedagógico inteligente para docentes, que ofrece herramientas para la planificación de clases, generación de rúbricas, ideas de proyectos y más, impulsada por la API de Gemini.",
+  "requestFramePermissions": []
+}
