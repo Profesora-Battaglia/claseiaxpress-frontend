@@ -63,7 +63,9 @@ const Sidebar: React.FC<SidebarProps> = ({ onLogout, theme, toggleTheme }) => {
                         {link.label}
                     </Link>
                 ))}
-            </nav>
+                <button className="w-full mt-4 bg-green-500 text-white font-bold py-4 px-4 rounded">
+                    BOTÓN DE PRUEBA
+                </button>
             <div className="px-4 py-6 border-t border-primary-dark">
                  <div className="flex justify-center mb-4">
                     <button onClick={toggleTheme} className="flex items-center gap-2 p-2 rounded-full text-blue-200 hover:bg-primary-dark transition-colors">
